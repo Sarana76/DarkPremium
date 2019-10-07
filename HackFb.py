@@ -23,8 +23,8 @@ br.addheaders = [('User-Agent', 'Opera/9.80 (Android; Opera Mini/36.2.2254/119.1
 
 
 def keluar():
-    print '\x1b[1;91m[!] Terima Kasih Sudah Menggunakan Tolls BanditSploit'
-    os.sys.exit()
+    cetak                'S \ x1b [1; 91m [!] Terima Kasih Sudah Menggunakan Tols saranasarana'
+    os . sys . keluar ()
 
 
 def jalan(z):
